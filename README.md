@@ -1,6 +1,12 @@
 # LeapfrogInternship
 
-JS Assignment 1 : Image Slider
+Projects Lists :
+### DESIGN
+- Design Assignment 1 
+- Responsive Design
+- Design Final Assignment
+ ### JAVASCRIPT
+ - Vanilla JS Image Slider
 
 ## Deployed here :
-https://kshitijsubedi.github.io/JS-Image-Carousel/
+https://kshitijsubedi.github.io/leapfrogInternship/
