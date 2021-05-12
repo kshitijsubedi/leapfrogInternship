@@ -7,6 +7,8 @@ Projects Lists :
 - Design Final Assignment
  ### JAVASCRIPT
  - Vanilla JS Image Slider
+ - Ball Collision
+ - Ant Smasher
 
 ## Deployed here :
 https://kshitijsubedi.github.io/leapfrogInternship/
