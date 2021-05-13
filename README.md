@@ -9,6 +9,7 @@ Projects Lists :
  - Vanilla JS Image Slider
  - Ball Collision
  - Ant Smasher
+ - Car Lane Game
 
 ## Deployed here :
 https://kshitijsubedi.github.io/leapfrogInternship/
