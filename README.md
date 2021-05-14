@@ -10,6 +10,6 @@ Projects Lists :
  - Ball Collision
  - Ant Smasher
  - Car Lane Game
-
+ - Flappy Bird
 ## Deployed here :
 https://kshitijsubedi.github.io/leapfrogInternship/
